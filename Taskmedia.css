@@ -1,0 +1,13 @@
+#Love{
+    text-align: center;
+    text-shadow: 2px.4px.2px red;
+}
+#artist{
+    letter-spacing: 5px;
+}
+.first{
+    color:lightskyblue;
+}
+body{
+    background-image: linear-gradient(rgb(45, 219, 176),rgb(97, 97, 194));
+}
